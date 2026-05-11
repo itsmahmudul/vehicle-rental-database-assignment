@@ -43,7 +43,7 @@ Vehicles 1 → Many Bookings
 
 ## SQL Queries Included
 
-The `queries.sql` file includes:
+The (./queries.sql) file includes:
 
 1. Table creation queries
 2. Sample data insertion queries
